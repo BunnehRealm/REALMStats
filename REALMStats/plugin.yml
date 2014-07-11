@@ -1,0 +1,8 @@
+name: REALMStats
+main: net.bunnehrealm.realmstats.REALMStats
+version: 1.0
+description: >
+            Stat logging.
+commands:
+  stats:
+    decription: Show a player's stats.
